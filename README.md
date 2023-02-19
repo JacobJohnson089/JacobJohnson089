@@ -6,7 +6,7 @@ I'm a canadian computer science student, no need to know more let's skip to the 
 <br />
 
 
-# This is not a git hub profile, this is a public note book 📕
+# This git hub profile is  more of a public note book 📕
 
 ### What does that mean ?
 
