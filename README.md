@@ -17,7 +17,7 @@ For this reason, I will be structuring what I learn, into different reps and org
 <br />
 <br />
 
-# Also check out the Computer Science Library 📚
+# Check out the Computer Science Library 📚
 
 ### [Every ressources and informational document I can get my hands on will be put there](https://github.com/JacobJohnson089/The-Computer-Science-Library)
 
